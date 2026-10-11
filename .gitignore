@@ -1,0 +1,22 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+.vscode/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Sensitive and potentially unsafe lab artifacts
+*.pcap
+*.pcapng
+*.exe
+*.dll
+*.bin
+.env
+*.key
+*.pem
+credentials*
+passwords*
